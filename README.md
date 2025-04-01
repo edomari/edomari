@@ -1,4 +1,4 @@
-## Welcome 👋
+# Welcome 👋
 
 [![Banner](banner.png)](https://github.com/edomari)
 <h1><p align="center">About me</p></h1>
